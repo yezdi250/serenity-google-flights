@@ -1,0 +1,1 @@
+To execute the tests run the 'ExecuteTest.bat' file in project root folder
